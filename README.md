@@ -5,3 +5,4 @@ This was an exercise in the basics of Angular 2 including component creation and
 custom directives, and custom pipes. The current version retrieves a set of default display items using Http to fetch them from a 
 local file named mock-xhr-backend that simulates the response of a server.
 
+ 
